@@ -1,6 +1,6 @@
 # Calculadora Analítica de ROI e Viabilidade de Projetos
 
-**Acesso ao projeto em produção:** [https://calculator-roi-two.vercel.app/]
+**Acesso ao projeto em produção:** https://calculator-roi-two.vercel.app/
 
 ## Sobre o Projeto
 
